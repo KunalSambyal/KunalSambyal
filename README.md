@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <!--<td><img src="https://github-readme-stats.vercel.app/api?username=KunalSambyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></td>-->
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=KunalSambyal&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
+    <!-- <td><img src="https://nirzak-streak-stats.vercel.app/?user=KunalSambyal&theme=dark&hide_border=false" alt="GitHub Streak" /></td> -->
     <!--<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSambyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>-->
   </tr>
 </table>
