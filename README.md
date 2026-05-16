@@ -23,18 +23,15 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalSambyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KunalSambyal&theme=dark&hide_border=false" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalSambyal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSambyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSambyal&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<img height="180em" src="https://streak-stats.demolab.com?user=KunalSambyal&theme=tokyonight&hide_border=true"/>
+
+</div>
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
