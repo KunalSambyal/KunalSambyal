@@ -32,7 +32,7 @@
 <img height="180em" src="https://streak-stats.demolab.com?user=KunalSambyal&theme=tokyonight&hide_border=true"/>
 
 </div>
-### ✍️ Random Dev Quote
+✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
