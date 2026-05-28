@@ -21,9 +21,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunalSambyal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -31,8 +31,8 @@
 
 <img height="180em" src="https://streak-stats.demolab.com?user=KunalSambyal&theme=tokyonight&hide_border=true"/>
 
-</div>
-✍️ Random Dev Quote
+</div> -->
+Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
