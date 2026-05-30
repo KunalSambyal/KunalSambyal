@@ -44,7 +44,7 @@ Tools            : Git, Docker, Figma
 ---
 
 ## Current Focus
-
+    
 ```text
 ✓ Building Full-Stack Projects
 ✓ Working with REST APIs
@@ -56,5 +56,5 @@ Tools            : Git, Docker, Figma
 ## Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
 </p>
