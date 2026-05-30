@@ -1,11 +1,9 @@
-# Hi, I'm Kunal Sambyal
-
 ## About Me
+
+# Hi, I'm Kunal Sambyal
 
 - B.Tech in Computer Science & Engineering
 - Aspiring Software Developer with a strong interest in Backend Development
-- Currently learning **Node.js, MongoDB, Docker, and modern web technologies**
-- Focused on building REST APIs, working with databases, and understanding scalable system architecture
 - Continuously improving my problem-solving and software engineering skills
 - Reach me at **kunalsambyal9628@gmail.com**
 
@@ -14,7 +12,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/kunal-sambyal">
+<a href="https://www.linkedin.com/in/kuanl-sambyal/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -36,6 +34,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ### Frontend
 
@@ -56,19 +55,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
 
-<div align="center">
+```text
+✓ Building Full-Stack Projects
+✓ Working with REST APIs
+✓ Learning How Frontend & Backend Communicate
+✓ Building Projects with React
+✓ Exploring Node.js & Backend Development
+```
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KunalSambyal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSambyal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=KunalSambyal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+## Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
