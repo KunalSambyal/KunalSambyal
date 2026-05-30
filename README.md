@@ -52,9 +52,4 @@ Tools            : Git, Docker, Figma
 ✓ Building Projects with React
 ✓ Exploring Node.js & Backend Development
 ```
-
-## Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
-</p>
+---
