@@ -3,13 +3,13 @@
 # Hi, I'm Kunal Sambyal
 
 - B.Tech in Computer Science & Engineering
-- Aspiring Software Developer with a strong interest in Backend Development
+- Software Developer with a strong interest in Backend Development
 - Continuously improving my problem-solving and software engineering skills
 - Reach me at **kunalsambyal9628@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kuanl-sambyal/">
@@ -30,13 +30,13 @@
 ## Tech Stack
 
 ```text
-Languages        : JavaScript, Python, C, C++
+Languages        : JavaScript, TypeScript, Python, C, C++
 
-Frontend         : HTML, CSS, Bootstrap, React
+Frontend         : React, HTML, CSS, Tailwind CSS
 
 Backend          : Node.js
 
-Databases        : MySQL, Firebase
+Databases        : MySQL
 
 Tools            : Git, Docker, Figma
 ```
@@ -46,10 +46,10 @@ Tools            : Git, Docker, Figma
 ## Current Focus
     
 ```text
-✓ Building Full-Stack Projects
-✓ Working with REST APIs
-✓ Learning How Frontend & Backend Communicate
 ✓ Building Projects with React
 ✓ Exploring Node.js & Backend Development
+✓ Learning How Frontend & Backend Communicate
+✓ Building Full-Stack Projects
+✓ Working with REST APIs
 ```
 ---
