@@ -8,7 +8,7 @@ Portfolio: https://kunal-sambyal-portfolio.vercel.app/
 
 - [NodeJs-cli-guide](https://github.com/KunalSambyal/nodejs-cli-guide)
 - [Node-js](https://github.com/KunalSambyal/Node-js)
-- [DocSort-CLI](https://github.com/KunalSambyal/DocSort-CLI)
+- [PDF-Gemini-Parser](https://github.com/KunalSambyal/pdf-gemini-parser)
 
 ### Web Development
 
