@@ -6,6 +6,12 @@ Portfolio: https://kunal-sambyal-portfolio.vercel.app/
 
 ### Backend & CLI
 
+#### FastAPI
+
+- [Expense-Tracker](https://github.com/KunalSambyal/Expense-Tracker)
+
+#### Node.js
+
 - [NodeJs-cli-guide](https://github.com/KunalSambyal/nodejs-cli-guide)
 - [Node-js](https://github.com/KunalSambyal/Node-js)
 - [PDF-Gemini-Parser](https://github.com/KunalSambyal/pdf-gemini-parser)
