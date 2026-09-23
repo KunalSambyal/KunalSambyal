@@ -1,23 +1,3 @@
-Portfolio: https://kunal-sambyal-portfolio.vercel.app/
+Fully WCAG 2.1 AA accessibility compliance developer [Portfolio](https://github.com/KunalSambyal/Portfolio)
 
----
-
-## Other Repositories
-
-### Backend & CLI
-
-#### FastAPI
-
-- [Expense-Tracker](https://github.com/KunalSambyal/Expense-Tracker)
-
-#### Node.js
-
-- [NodeJs-cli-guide](https://github.com/KunalSambyal/nodejs-cli-guide)
-- [Node-js](https://github.com/KunalSambyal/Node-js)
-- [PDF-Gemini-Parser](https://github.com/KunalSambyal/pdf-gemini-parser)
-
-### Web Development
-
-- [GitHub-Profile-Searcher](https://github.com/KunalSambyal/GitHub-Profile-Searcher)
-- [Weather App](https://github.com/KunalSambyal/Weather-App)
-- [Registration Form V2](https://github.com/KunalSambyal/Registration-Form-V2-)
+[Portfolio-Preview](https://kunal-sambyal-portfolio.vercel.app/)
